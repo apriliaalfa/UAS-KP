@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include <string.h>
-
+//jjjj
 // Fungsi untuk mengecek pengguna berdasarkan ID
 void cekpengguna(char* ID) {
     char line[100], kategorinamafile[20];
